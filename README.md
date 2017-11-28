@@ -1,2 +1,2 @@
 # Best Austin Resources
-For more information, see [BestAustin.com](www.bestaustin.com).
+For more information, see [BestAustin.com](http://www.bestaustin.com).
