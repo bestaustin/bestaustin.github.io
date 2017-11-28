@@ -1,2 +1,2 @@
-# bestaustin.github.io
-Best Austin Website
+# Best Austin Resources
+For more information, see [BestAustin.com](www.bestaustin.com).
